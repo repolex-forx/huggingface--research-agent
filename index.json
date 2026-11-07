@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "research-agent",
+  "versions": [
+    {
+      "commit": "d840fa46f7034480a45eb4e82fd60005a3b0e8fb",
+      "tag": "",
+      "parsed_at": "2026-11-07T22:57:41.279239+00:00"
+    }
+  ]
+}
