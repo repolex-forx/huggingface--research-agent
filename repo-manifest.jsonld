@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/research-agent/commit/d840fa46f7034480a45eb4e82fd60005a3b0e8fb",
       "git:hexsha": "d840fa46f7034480a45eb4e82fd60005a3b0e8fb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/research-agent/commit/8a0b2dc493186e4e23d3b436a7dad832e5961995",
